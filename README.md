@@ -1559,6 +1559,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) - 🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications  with search phrases, users, and date filtering.
 - [MarceauSolutions/fitness-influencer-mcp](https://github.com/MarceauSolutions/fitness-influencer-mcp) 🐍 🏠 ☁️ - Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [glama](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X data MCP server with API-key auth for tweet search, user lookup, follower extraction, media download, monitoring, webhooks, and confirmation-gated posting workflows.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 
 ### 🏃 <a name="sports"></a>Sports

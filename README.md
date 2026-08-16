@@ -288,6 +288,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [serkan-ozal/browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) 📇 - An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.
 - [softvoyagers/pageshot-api](https://github.com/softvoyagers/pageshot-api) 📇 ☁️ - Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
 - [User0856/snaprender-mcp](https://github.com/User0856/snaprender-integrations/tree/main/mcp-server) [glama](https://glama.ai/mcp/servers/@User0856/snaprender-mcp) 📇 ☁️ - Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF with device emulation, dark mode, ad blocking, and cookie banner removal. Free tier included.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) [![vostride/agent-qa MCP server](https://glama.ai/mcp/servers/vostride/agent-qa/badges/score.svg)](https://glama.ai/mcp/servers/vostride/agent-qa) 📇 🏠 - FSL-1.1-ALv2 source-available application QA harness exposing MCP tools to define, validate, list, run, and triage natural-language web and mobile tests; browser, device, and model providers are configured separately.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [glama](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
 
@@ -1866,4 +1867,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
